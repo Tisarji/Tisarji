@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tisarji
 ===============================================================================================================================
 
-42 Bangkok! and Developer
--------------------------
-
-In the ever-evolving world of technology, there exists a programmer with an insatiable appetite for growth and a relentless pursuit of excellence. Meet Tisarji, a dedicated coder who has embarked on an exciting journey of continuous learning and self-improvement.
+42 Bangkok! and Developer : In the ever-evolving world of technology, there exists a programmer with an insatiable appetite for growth and a relentless pursuit of excellence. Meet Tisarji, a dedicated coder who has embarked on an exciting journey of continuous learning and self-improvement.
 
 * 🌍  I'm based in Thailand, Bankok
 
