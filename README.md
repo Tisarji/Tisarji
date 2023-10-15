@@ -1,5 +1,5 @@
 
-![b8ede8e45284b7b900fb621266e7fece](https://github.com/Tisarji/Tisarji/assets/48820052/20dfb966-0ad4-43e2-b123-980905fc4cd7)
+![b8ede8e45284b7b900fb621266e7fece](https://github.com/Tisarji/Tisarji/assets/48820052/20dfb966-0ad4-43e2-b123-980905fc4cd7) 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tisarji
 ===============================================================================================================================
@@ -7,7 +7,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 42 Bangkok! and Developer : In the ever-evolving world of technology, there exists a programmer with an insatiable appetite for growth and a relentless pursuit of excellence. Meet Tisarji, a dedicated coder who has embarked on an exciting journey of continuous learning and self-improvement.
 
 * 🌍  I'm based in Thailand, Bankok
-* 🧑🏼‍🎓  I'm studying at 42 BKK.
+* 🧑🏼‍🎓  I'm studying at 42 BANGKOK.
+### 42 BANGKOK level
+[![jikarunw's 42 stats](https://badge.mediaplus.ma/landscapes/jikarunw?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 * 🧑🏼‍💻  I'm a Software Engineer.
 
 ### Socials
