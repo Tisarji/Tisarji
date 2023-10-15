@@ -7,6 +7,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 42 Bangkok! and Developer : In the ever-evolving world of technology, there exists a programmer with an insatiable appetite for growth and a relentless pursuit of excellence. Meet Tisarji, a dedicated coder who has embarked on an exciting journey of continuous learning and self-improvement.
 
 * 🌍  I'm based in Thailand, Bankok
+* 🧑🏼‍🎓  I'm studying at 42 BKK.
+* 🧑🏼‍💻  I'm a Software Engineer.
 
 ### Socials
 
