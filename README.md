@@ -11,8 +11,8 @@ Hi, I'm Tisarji, a passionate programmer currently studying at 42 Bangkok. I hav
     🌍 I'm based in Thailand, Bankok<br>🧑🏼‍🎓 I'm studying at 42 BANGKOK.
 </div>
 
-## 🌐 Socials:
 <div align="center">
+    <h1> 🌐 Socials </h1>
     <a href="https://facebook.com/MrT407">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
     </a>
