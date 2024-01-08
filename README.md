@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div align="center">
     <h1>💫 About Me:</h1>
+    <div align="left">
 Hi, I'm Tisarji, a passionate programmer currently studying at 42 Bangkok. I have a deep love for music, which is the heartbeat of my life. As a programmer, I'm on a mission to excel and make the world a more fascinating place through technology. My journey is one of continuous learning and self-improvement, driven by the desire to become a top-tier programmer and contribute to the forefront of innovation.
+    </div>
 </div>
 <div align="left">
     <br>
@@ -39,7 +41,7 @@ Hi, I'm Tisarji, a passionate programmer currently studying at 42 Bangkok. I hav
 <div align="center">
     <h1>📊 GitHub Stats:</h1>
     <img src="https://github-readme-stats.vercel.app/api?username=Tisarji&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    <br>
+<!--     <br> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisarji&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 <div align="center">
