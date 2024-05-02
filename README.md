@@ -44,8 +44,4 @@ Hi, I'm Tisarji, a passionate programmer currently studying at 42 Bangkok. I hav
 <!--     <br> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisarji&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
-<div align="center">
-    <h1>😂 Random Dev Meme</h1>
-    <img src="https://randommeme-five.vercel.app/" style="height: 400px;" alt="Random Dev Meme">
-</div>
 
