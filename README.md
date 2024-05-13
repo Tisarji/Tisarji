@@ -22,12 +22,11 @@ Hi, I'm Tisarji, a passionate programmer currently studying at 42 Bangkok. I hav
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
     </a>
 </div>
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dzkxy7by5xfbzjq7c4fidhwgaq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify">
     </a>
-</div>
-
+</div> -->
 
 <div align="center">
     <h1>💻 Tech Stack:</h1>
