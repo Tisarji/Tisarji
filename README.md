@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================
 ![b8ede8e45284b7b900fb621266e7fece](https://github.com/Tisarji/Tisarji/assets/48820052/20dfb966-0ad4-43e2-b123-980905fc4cd7) 
 
-<div align="center">
+<div align="left">
     <h1>💫 About Me:</h1>
 <!--     <div align="left">
 Hi, I'm Tisarji, a passionate programmer currently studying at 42 Bangkok. I have a deep love for music, which is the heartbeat of my life. As a programmer, I'm on a mission to excel and make the world a more fascinating place through technology. My journey is one of continuous learning and self-improvement, driven by the desire to become a top-tier programmer and contribute to the forefront of innovation.
