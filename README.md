@@ -15,11 +15,11 @@ Hi, I'm Tisarji, a passionate programmer currently studying at 42 Bangkok. I hav
 
 <div align="center">
     <h1> 🌐 Socials </h1>
-    <a href="https://facebook.com/MrT407">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+    <a herf="https://www.facebook.com/MrT407">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
     <a href="https://instagram.com/Tisarji">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instargram">
     </a>
 </div>
 <!-- <div align="center">
@@ -28,7 +28,7 @@ Hi, I'm Tisarji, a passionate programmer currently studying at 42 Bangkok. I hav
     </a>
 </div> -->
 
-<div align="center">
+<div align="left">
     <h1>💻 Tech Stack:</h1>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
@@ -46,7 +46,7 @@ Hi, I'm Tisarji, a passionate programmer currently studying at 42 Bangkok. I hav
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
     <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="iterm">
 </div>
-<div align="center">
+<div align="left">
     <h1>📊 GitHub Stats:</h1>
     <img src="https://github-readme-stats.vercel.app/api?username=Tisarji&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 <!--     <br> -->
