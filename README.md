@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tisarji
 ===============================================================================================================================
-![b8ede8e45284b7b900fb621266e7fece](https://github.com/Tisarji/Tisarji/assets/48820052/20dfb966-0ad4-43e2-b123-980905fc4cd7) 
+![made-By-Tisarji](https://github.com/Tisarji/Tisarji/assets/48820052/941b3a48-73ed-4ea2-888c-b50c7dbdc379)
 
 <div align="left">
     <h1>💫 About Me:</h1>
