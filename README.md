@@ -15,13 +15,13 @@ Hi, I'm Tisarji, a passionate programmer currently studying at 42 Bangkok. I hav
 
 <div align="left">
     <h1> 🌐 Socials </h1>
-    <a href="https://www.facebook.com/MrT407">
+    <a href="https://www.facebook.com/MrT407" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
-    <a href="https://instagram.com/Tisarji">
+    <a href="https://instagram.com/Tisarji" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://tidal-name-233.notion.site/42-Bangkok-a212176b031849b281ddab54fdf18763">
+    <a href="https://tidal-name-233.notion.site/42-Bangkok-a212176b031849b281ddab54fdf18763" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
     </a>
 </div>
