@@ -10,7 +10,7 @@ Hi, I'm Tisarji, a passionate programmer currently studying at 42 Bangkok. I hav
 </div>
 <div align="left">
     <br>
-    🌍 I'm based in Thailand, Bankok<br>🧑🏼‍🎓 I'm studying at "42 BANGKOK" And MUT.
+    🌍 I'm based in Germany, and I'm from Bankok<br>🧑🏼‍🎓 I'm studying at "42 BANGKOK" And MUT.
 </div>
 
 <div align="left">
