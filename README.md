@@ -33,6 +33,7 @@ Hi, I'm Tisarji, a passionate programmer currently studying at 42 Bangkok. I hav
 
 <div align="left">
     <h1>💻 Tech Stack:</h1>
+    <div align="center">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -53,6 +54,7 @@ Hi, I'm Tisarji, a passionate programmer currently studying at 42 Bangkok. I hav
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+    </div>
 </div>
 
 <div align="left">
