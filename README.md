@@ -55,8 +55,10 @@ Hi, I'm Tisarji, a passionate programmer currently studying at 42 Bangkok. I hav
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
 </div>
 
-<div align="center">
+<div align="left">
     <h1>📊 GitHub Stats:</h1>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tisarji&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisarji&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="150"/>
+</div>
 </div>
