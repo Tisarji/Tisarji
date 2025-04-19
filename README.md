@@ -2,12 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================
 ![made-By-Tisarji](https://github.com/Tisarji/Tisarji/assets/48820052/941b3a48-73ed-4ea2-888c-b50c7dbdc379)
 
-<div align="left">
-    <h1>💫 About Me:</h1>
+<!-- <div align="left">
+    <h1>💫 About Me:</h1> -->
 <!--     <div align="left">
 Hi, I'm Tisarji, a passionate programmer currently studying at 42 Bangkok. I have a deep love for music, which is the heartbeat of my life. As a programmer, I'm on a mission to excel and make the world a more fascinating place through technology. My journey is one of continuous learning and self-improvement, driven by the desire to become a top-tier programmer and contribute to the forefront of innovation.
     </div> -->
-</div>
+<!-- </div>
 <div align="left">
     <br>
     🌍 I'm based in Thailand, and I'm from Bankok<br>🧑🏼‍🎓 I'm studying at "42 BANGKOK" And MUT.
@@ -15,7 +15,6 @@ Hi, I'm Tisarji, a passionate programmer currently studying at 42 Bangkok. I hav
 
 <div align="left">
     <h1> 🌐 Socials </h1>
-    <div align="center">
     <a href="https://www.facebook.com/MrT407" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
@@ -25,8 +24,9 @@ Hi, I'm Tisarji, a passionate programmer currently studying at 42 Bangkok. I hav
     <a href="https://tidal-name-233.notion.site/42-Bangkok-a212176b031849b281ddab54fdf18763" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
     </a>
-    </div>
 </div>
+-->
+
 <!-- <div align="center">
     <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dzkxy7by5xfbzjq7c4fidhwgaq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify">
