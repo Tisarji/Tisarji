@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tong
 ===============================================================================================================================
-![made-By-Tisarji](https://github.com/Tisarji/Tisarji/assets/48820052/941b3a48-73ed-4ea2-888c-b50c7dbdc379)
+<!-- ![made-By-Tisarji](https://github.com/Tisarji/Tisarji/assets/48820052/941b3a48-73ed-4ea2-888c-b50c7dbdc379) -->
+![made By Tisarji (1)](https://github.com/user-attachments/assets/40c745f0-c2be-4925-a8ce-c325bd2fae8a)
+
 
 <!-- <div align="left">
     <h1>💫 About Me:</h1> -->
